@@ -1,3 +1,7 @@
 # augd_dairy
-Personal Dairy
-![image](https://github.com/kajal1707/augd_dairy/assets/97467080/943c0658-0d5c-4dcc-b009-65ee240bbba0)
+
+Personal diary.
+
+
+
+https://user-images.githubusercontent.com/90100025/160323767-c0b49c31-1808-4048-a2ab-568b766c17ad.mp4
