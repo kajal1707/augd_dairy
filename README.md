@@ -1,6 +1,6 @@
 # augd_dairy
 
-Personal diary.
+Personal Diary
 
 
 
